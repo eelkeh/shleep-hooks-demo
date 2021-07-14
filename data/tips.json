@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "title": "Here’s a tip to help you focus today",
+    "content": "Hi,\nIt might be a little more difficult to focus today. To stay on track, try mono-tasking: only work on one task or have one program/tab open at a time.",
+    "background": "focusTipBg",
+    "icon": "focusTipIcon",
+    "header": "focusTipHeader"
+  },
+  {
+    "id": 2,
+    "title": "Here’s a tip to help you focus today",
+    "content": "Hi,\nIt might be a little more difficult to focus today. Try the “pomodoro technique” to stay on track. Choose a task and set a timer for when you’re allowed to take a break (25 minutes is recommended). Focus on the task at hand until the timer goes off - then reward yourself with a break!",
+    "background": "focusTipBg",
+    "icon": "focusTipIcon2",
+    "header": "focusTipHeader2"
+  },
+  {
+    "id": 3,
+    "title": "Here’s a tip to help you focus today",
+    "content": "Hi,\nIt might be a little more difficult to focus today. Remember to take breaks today. To help you refocus, try our Deep Breathing exercise in the Relax section!",
+    "background": "focusTipBg",
+    "icon": "focusTipIcon3",
+    "header": "focusTipHeader3",
+    "track": {
+      "type": "breathing",
+      "title": "Deep Breathing"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Here’s a tip to help you stay balanced today",
+    "content": "Hi,\nYou might feel a bit agitated today. Remind yourself to not immediately jump to conclusions. If possible, give yourself a night of catch up sleep before making important decisions.",
+    "background": "stayBalancedBg",
+    "icon": "stayBalancedIcon",
+    "header": "stayBalancedHeader"
+  },
+  {
+    "id": 5,
+    "title": "Here’s a tip to help you stay balanced today",
+    "content": "Hi,\nYou might feel a bit agitated today. Remember, it can be helpful to take a step back if you start to feel overwhelmed. Take a re-centering break with our 10 minute Mindfulness Meditation exercise in the Relax section of the app.",
+    "background": "stayBalancedBg",
+    "icon": "stayBalancedIcon2",
+    "header": "stayBalancedHeader2",
+    "track": {
+      "type": "meditation",
+      "title": "Mindfulness Meditation"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Here’s a tip to help you stay balanced today",
+    "content": "Hi,\nYou might feel a bit agitated today. Try to take care of any emotionally tricky tasks early in the day.",
+    "background": "stayBalancedBg",
+    "icon": "stayBalancedIcon3",
+    "header": "stayBalancedHeader3"
+  },
+  {
+    "id": 7,
+    "title": "Here’s a tip to keep you at your best today",
+    "content": "Hi,\nYou might feel a bit sluggish today. Take lots of notes or record your meetings, just in case you miss some details.",
+    "background": "keepYourBestBg",
+    "icon": "keepYourBestIcon",
+    "header": "keepYourBestHeader"
+  },
+  {
+    "id": 8,
+    "title": "Here’s a tip to keep you at your best today",
+    "content": "Hi,\nYou might feel a bit sluggish today. Write any ideas you have down immediately - that way you can always come back to them later.",
+    "background": "keepYourBestBg",
+    "icon": "keepYourBestIcon2",
+    "header": "keepYourBestHeader2"
+  },
+  {
+    "id": 9,
+    "title": "Here’s a tip to keep you at your best today",
+    "content": "Hi,\nYou might feel a bit sluggish today. Go ahead and set reminders for important tasks - that way you’ll be sure not to miss anything.",
+    "background": "keepYourBestBg",
+    "icon": "keepYourBestIcon3",
+    "header": "keepYourBestHeader3"
+  },
+  {
+    "id": 10,
+    "title": "Here’s a tip to keep you at your best today",
+    "content": "Hi,\nYou might not feel particularly creative today. Try taking a “creative pause.” Take a 20 minute break in a new surrounding and let your mind wander.",
+    "background": "keepYourBestBg",
+    "icon": "keepYourBestIcon4",
+    "header": "keepYourBestHeader4"
+  },
+  {
+    "id": 11,
+    "title": "Here’s a tip to keep you at your best today",
+    "content": "Hi,\nYou might not feel particularly creative today. Give yourself 20 minutes to write down as many ideas as possible. Catch up on sleep tomorrow, and re-evaluate the ideas tomorrow. You might have even come up with some good new ideas during your sleep!",
+    "background": "keepYourBestBg",
+    "icon": "keepYourBestIcon5",
+    "header": "keepYourBestHeader5"
+  },
+  {
+    "id": 12,
+    "title": "Here’s a tip to keep you at your best today",
+    "content": "Hi , You might not feel particularly creative today. To get your creative juices flowing, bounce some ideas off a brainstorming buddy.",
+    "background": "keepYourBestBg",
+    "icon": "keepYourBestIcon6",
+    "header": "keepYourBestHeader6"
+  },
+  {
+    "id": 13,
+    "title": "Here’s a tip to keep you at your best today",
+    "content": "Hi,\nA rough night can make it difficult to make good decisions when it comes to food. Slow-burning carbs (e.g. oatmeal) and proteins (e.g. eggs) are a good choice for a breakfast that will keep you going.",
+    "background": "keepYourBestBg2",
+    "icon": "keepYourBestIcon7",
+    "header": "keepYourBestHeader7"
+  },
+  {
+    "id": 14,
+    "title": "Here’s a tip to keep you at your best today",
+    "content": "Hi,\nA rough night can make caffeinated drinks more tempting. Keep in mind that caffeine has limited effectiveness and can even make your day difficult with side effects like increased heart rate and sweating. Make 3 cups your max today: 1 before lunch, 1 after lunch, and 1 around 2-3pm.",
+    "background": "keepYourBestBg2",
+    "icon": "keepYourBestIcon8",
+    "header": "keepYourBestHeader8"
+  },
+  {
+    "id": 15,
+    "title": "Here’s a tip to keep you at your best today",
+    "content": "Hi,\nBe sure to stay hydrated after a rough night. Without sleep the body has less of a chance to flush waste out of its cells. Drinking water helps your body get rid of the waste it wasn’t able to get rid of at night.",
+    "background": "keepYourBestBg2",
+    "icon": "keepYourBestIcon9",
+    "header": "keepYourBestHeader9"
+  },
+  {
+    "id": 16,
+    "title": "Here’s a tip to keep you at your best today",
+    "content": "Hi,\nIf you’re feeling tired today, make time for a 7-minute workout during your day. You’ll get an energy boost, and there are tons of health benefits to even short workouts!",
+    "background": "keepYourBestBg3",
+    "icon": "keepYourBestIcon10",
+    "header": "keepYourBestHeader10"
+  },
+  {
+    "id": 17,
+    "title": "Here’s a tip to keep you at your best today",
+    "content": "Hi,\nIf you get a bit sleepy today, try taking a walk after lunch. Bright light and fresh air boost productivity - and improve sleep quality at night!",
+    "background": "keepYourBestBg3",
+    "icon": "keepYourBestIcon11",
+    "header": "keepYourBestHeader11"
+  },
+  {
+    "id": 18,
+    "title": "Here’s a tip to keep you at your best today",
+    "content": "Hi,\nIf you feel exhausted today, try taking a 20 minute power nap in the mid afternoon. Set an alarm for 30 minutes and allow yourself to rest at your desk, in a comfy chair or in your car, wherever you can find a couple of minutes of peace and quiet!",
+    "background": "keepYourBestBg3",
+    "icon": "keepYourBestIcon12",
+    "header": "keepYourBestHeader12"
+  }
+]
